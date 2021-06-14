@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>parkinson&#39;s disease on Sophia Perry</title>
+    <link>https://smperry035.github.io/Research_Portfolio/tags/parkinsons-disease/</link>
+    <description>Recent content in parkinson&#39;s disease on Sophia Perry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 May 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://smperry035.github.io/Research_Portfolio/tags/parkinsons-disease/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Detecting Parkinson&#39;s disease from gut microbiome DNA sequences, Part I</title>
+      <link>https://smperry035.github.io/Research_Portfolio/project/project-1/</link>
+      <pubDate>Wed, 05 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://smperry035.github.io/Research_Portfolio/project/project-1/</guid>
+      <description>The gut microbiome plays an important role in human health. There are many different organisms living in the gut microbiome. Scientists often study the gut microbiome using DNA sequencing techniques, which involve many sequences per sample. The gut microbiome is also connected with several health conditions, including neurodegenerative diseases such as Parkinson&amp;rsquo;s disease. Parkinson&amp;rsquo;s disease is a movement disorder that affects about one million individuals in the United States. Symptoms include tremors, stiffness, fatigue, and depression.</description>
+    </item>
+    
+  </channel>
+</rss>
