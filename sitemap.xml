@@ -2,37 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://smperry035.github.io/Research_Portfolio/project/project-2/</loc>
+    <lastmod>2021-10-11T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://smperry035.github.io/Research_Portfolio/tags/dna-sequences/</loc>
+    <lastmod>2021-10-11T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://smperry035.github.io/Research_Portfolio/tags/machine-learning/</loc>
+    <lastmod>2021-10-11T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://smperry035.github.io/Research_Portfolio/tags/parkinsons-disease/</loc>
+    <lastmod>2021-10-11T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://smperry035.github.io/Research_Portfolio/</loc>
+    <lastmod>2021-10-11T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://smperry035.github.io/Research_Portfolio/tags/</loc>
+    <lastmod>2021-10-11T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://smperry035.github.io/Research_Portfolio/project/</loc>
     <lastmod>2021-05-05T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://smperry035.github.io/Research_Portfolio/</loc>
-    <lastmod>2021-05-05T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://smperry035.github.io/Research_Portfolio/project/project-1/</loc>
-    <lastmod>2021-05-05T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://smperry035.github.io/Research_Portfolio/tags/dna-sequences/</loc>
-    <lastmod>2021-05-05T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://smperry035.github.io/Research_Portfolio/tags/machine-learning/</loc>
-    <lastmod>2021-05-05T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://smperry035.github.io/Research_Portfolio/tags/parkinsons-disease/</loc>
-    <lastmod>2021-05-05T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://smperry035.github.io/Research_Portfolio/tags/</loc>
     <lastmod>2021-05-05T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -46,10 +51,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://smperry035.github.io/Research_Portfolio/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://smperry035.github.io/Research_Portfolio/project/project-2/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
